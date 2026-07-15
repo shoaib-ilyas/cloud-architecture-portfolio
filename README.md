@@ -1,4 +1,4 @@
-# cloud-architecture-portfolio
+# Cloud Architecture Portfolio
 
 # Shoaib Ilyas
 
