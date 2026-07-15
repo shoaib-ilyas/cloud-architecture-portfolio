@@ -16,10 +16,10 @@ Specialising in
 
 ## Portfolio
 
-- Secure Enterprise AI Platform
 - Digital Twin Reference Architecture
 - Cloud Security Reference Architecture
 - Zero Trust Architecture
+- Secure Enterprise AI Platform
 
 ## Certifications
 
